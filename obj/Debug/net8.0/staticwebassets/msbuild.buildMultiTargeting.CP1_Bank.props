@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CP1_Bank.props" />
+</Project>
