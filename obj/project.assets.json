@@ -252,11 +252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Fiap Software Engineering\\.Net\\CP1\\CP1_Bank\\CP1_Bank.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Fiap Software Engineering\\.Net\\CP1_Bank\\CP1_Bank.csproj",
       "projectName": "CP1_Bank",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Fiap Software Engineering\\.Net\\CP1\\CP1_Bank\\CP1_Bank.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Fiap Software Engineering\\.Net\\CP1_Bank\\CP1_Bank.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Fiap Software Engineering\\.Net\\CP1\\CP1_Bank\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Fiap Software Engineering\\.Net\\CP1_Bank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

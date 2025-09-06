@@ -1,0 +1,51 @@
+# ---- Build & Runtime ----
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]og/
+*.log
+
+# ---- Visual Studio / .NET ----
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ---- Rider / IntelliJ ----
+.idea/
+*.iml
+
+# ---- Configurações locais ----
+*.local.json
+*.secret.json
+
+# ---- Cache / Temporários ----
+*.cache
+*.tmp
+*.temp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# ---- Pacotes e dependências ----
+packages/
+*.nupkg
+*.snupkg
+
+# ---- Arquivos de publish ----
+publish/
+*.Publish.xml
+
+# ---- Test / Coverage ----
+*.coverage
+*.coveragexml
+TestResult.xml
+TestResults/
+.coverage
+*.trx
+
+# ---- Outros ----
+/node_modules/
